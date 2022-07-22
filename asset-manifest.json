@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sainadh1205/CartItems.git/static/css/main.447f1c81.css",
+    "main.js": "/Sainadh1205/CartItems.git/static/js/main.9bc4f6fd.js",
+    "static/media/cart.jpg": "/Sainadh1205/CartItems.git/static/media/cart.71d1d56889872d941081.jpg",
+    "index.html": "/Sainadh1205/CartItems.git/index.html",
+    "main.447f1c81.css.map": "/Sainadh1205/CartItems.git/static/css/main.447f1c81.css.map",
+    "main.9bc4f6fd.js.map": "/Sainadh1205/CartItems.git/static/js/main.9bc4f6fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447f1c81.css",
+    "static/js/main.9bc4f6fd.js"
+  ]
+}
